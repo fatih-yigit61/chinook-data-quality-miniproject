@@ -23,10 +23,9 @@ Each task will be implemented in a separate SQL script with comments and explana
 
 ## 🧰 Tech Stack
 
-- SQL (SQLite)
+- SQL SERVER
 - Chinook sample database
 - Git & GitHub for version control
-- (Optional) Jupyter or VS Code for SQL development
 
 ## 🚧 Project Status
 
