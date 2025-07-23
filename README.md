@@ -27,10 +27,3 @@ Each task will be implemented in a separate SQL script with comments and explana
 - Chinook sample database
 - Git & GitHub for version control
 
-## 🚧 Project Status
-
-This project is a work in progress. Tasks will be completed and pushed gradually as part of my learning journey.
-
-## 📌 Notes
-
-This repository is part of my personal portfolio. Feedback and suggestions are always welcome!
